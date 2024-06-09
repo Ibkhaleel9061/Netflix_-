@@ -1,0 +1,27 @@
+.avater {
+  position: fixed;
+  top: 9px;
+  right: 20px;
+  width: 40px;
+  object-fit: contain;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+  height: 20px;
+  display: flex;
+  left: 0;
+  justify-content: space-between;
+  background-color: black;
+  /*transition: ease-in-out 800ms;*/
+}
+
+.nav_logo {
+  position: fixed;
+  left: 20px;
+  width: 80px;
+  /*object-fit: contain;*/
+}
